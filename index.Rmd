@@ -1,0 +1,17 @@
+--- 
+title: "Teste Bookdown"
+author: "Orlando"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: r0drijr/bookdown
+url: 'http\://seankross.com/bookdown-start/'
+description: "Baseado no texto de Sean Kross - A Minimal Bookdowm Book."
+---
+
+# Preface {-}
+
+Teste do livro.
